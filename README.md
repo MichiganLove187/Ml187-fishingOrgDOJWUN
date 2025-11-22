@@ -1,4 +1,3 @@
-# Ml187-fishingOrgDOJWUN
 # Fishing script for QB
 
 ALL ORIGINAL CREDIT GOES TO DOJWUN AND THE CREATORS BEFORE HIM ive redone this script to work with latest qbcore it just dont actually show the fish anymore when you catch them ENJOY!!!!
